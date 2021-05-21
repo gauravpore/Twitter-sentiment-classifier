@@ -9,6 +9,7 @@ Sentiment Analysis is one of the most common tasks in Data Science. The project 
 **Tools & Technologies:**
 - Python 
 - [Twitter API](https://developer.twitter.com/en/docs/twitter-api)
+- [Natural Language Toolkit](https://www.nltk.org/))
 - [Tweepy](https://docs.tweepy.org/en/latest/)
 - [Textblob](https://textblob.readthedocs.io/en/dev/)
 - PyCharm
