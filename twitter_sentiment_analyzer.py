@@ -26,10 +26,10 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import CountVectorizer
 
 # Authentication twitter API
-consumerKey = "h9jkfHBKsoDYSBQVEbN88hwUD"
-consumerSecret = "OaCXHWd9bLESKKYwQ8zdM0QUxw3XpSAtBOJBNyH3MlrFzyKE0v"
-accessToken = "2998005176-18xGkcZYv6wDq7dppD1KCNnjT9hux2it86H29Rn"
-accessTokenSecret = "ieiK9puuKugSLUgeuUqUVktzWVR7nfwh8ovOHRgroaz8d"
+consumerKey = "--Enter--Your--Consumer--Key"
+consumerSecret = "--Enter--Your--consumerSecret--Key"
+accessToken = "--Enter--Your--accessToken--Key"
+accessTokenSecret = "--Enter--Your--accessTokenSecret--Key"
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
 auth.set_access_token(accessToken, accessTokenSecret)
 api = tweepy.API(auth)  # api authentication (twitter app)
