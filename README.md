@@ -30,7 +30,7 @@ pip install textblob
 - Step 4: Enter the topic/hashtag to retrieve the tweets, number to tweets to be analyzed and get the analysis report in form of Pie chart representation.
 
 ***NOTE:***
-To genarate the API key and get the Authentication follow [this](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens) steps.
+To generate the API key and get the Authentication follow [this](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens) steps.
 
 ## References:
 [Twitter API](https://developer.twitter.com/en/docs/twitter-api)
