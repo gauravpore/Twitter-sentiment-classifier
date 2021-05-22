@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-## Overview 
+## Overview:
 Sentiment Analysis is one of the most common tasks in Data Science. The project objective to demonstrate sentiment analysis on tweets on specific topic/keyword and classify them into three different sentiments, using twitter API. This repository contains complete source code needed to run this project.
 
 **Concepts:**
