@@ -94,7 +94,7 @@ print("positive number: ", len(positive_list))
 print("negative number: ", len(negative_list))
 print("neutral number: ", len(neutral_list))
 
-# print (negative_list)
+# printing tweets
 print(tweet_list)
 
 # Creating PieCart for data visualization
